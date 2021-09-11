@@ -1,0 +1,263 @@
+.dashboard main {
+  background: #f3f4f6;
+  grid-area: main;
+  
+}
+
+.dashboard .text-primary-p {
+  color: #a5aaad;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+
+.dashboard .main__title {
+  display: flex;
+  align-items: center;
+}
+
+.dashboard .main__cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+  margin: 20px 0;
+}
+
+.dashboard .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 70px;
+  padding: 25px;
+  border-radius: 5px;
+  background: #ffffff;
+  box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+}
+
+.dashboard .card_inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dashboard .card_inner>span {
+  font-size: 25px;
+}
+
+.dashboard .charts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.dashboard .charts__left {
+  padding: 25px;
+  border-radius: 5px;
+  background: #ffffff;
+  box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+
+}
+
+.dashboard .charts__left__title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dashboard .charts__left__title>div>h1 {
+  font-size: 24px;
+  color: #2e4a66;
+  margin-bottom: 5px;
+}
+
+.dashboard .charts__left__title>div>p {
+  font-size: 14px;
+  font-weight: 700;
+  color: #a5aaad;
+}
+
+.dashboard .charts__left__title>i {
+  color: #ffffff;
+  font-size: 20px;
+  background: #ffc100;
+  border-radius: 200px 0px 200px 200px;
+  -moz-border-radius: 200px 0px 200px 200px;
+  -webkit-border-radius: 200px 0px 200px 200px;
+  border: 0px solid #000000;
+  padding: 15px;
+}
+
+.charts__right {
+  padding: 25px;
+  border-radius: 5px;
+  background: #ffffff;
+  box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+}
+
+.charts__right__title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.charts__right__title>div>h1 {
+  font-size: 24px;
+  color: #2e4a66;
+  margin-bottom: 5px;
+}
+
+.charts__right__title>div>p {
+  font-size: 14px;
+  font-weight: 700;
+  color: #a5aaad;
+}
+
+.charts__right__title>i {
+  color: #ffffff;
+  font-size: 20px;
+  background: #39447a;
+  border-radius: 200px 0px 200px 200px;
+  -moz-border-radius: 200px 0px 200px 200px;
+  -webkit-border-radius: 200px 0px 200px 200px;
+  border: 0px solid #000000;
+  padding: 15px;
+}
+
+.charts__right__cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.card1 {
+  background: #d1ecf1;
+  color: #35a4ba;
+  text-align: center;
+  padding: 25px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.card2 {
+  background: #d2f9ee;
+  color: #38e1b0;
+  text-align: center;
+  padding: 25px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.card3 {
+  background: #c1e5f7;
+  color: #fa8e00;
+  text-align: center;
+  padding: 25px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.card4 {
+  background: #fddcdf;
+  color: #f65a6f;
+  text-align: center;
+  padding: 25px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.text-primary-p {
+  color: #a5aaad;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.charts_bottom {
+  padding: 25px;
+  border-radius: 5px;
+  background: #ffffff;
+  box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+}
+
+.bottom_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin-top: 50px;
+}
+
+@media only screen and (max-width: 855px) {
+  .dashboard .main__cards {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    margin-bottom: 0;
+  }
+  .charts__right__cards {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  .dashboard .charts, .dashboard .bottom_container {
+    grid-template-columns: 1fr;
+    margin-top: 30px;
+  }
+
+  .dashboard .card {
+    height: 30px;
+    padding: 20px;
+  }
+  
+}
+
+/*  */
+.Main__CardTop__container{
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: space-around;
+}
+.Main__Top__card{
+  margin:12px 6px;
+}
+.card_content{
+  display: flex;
+  justify-content: space-between;
+  border: rgb(129, 129, 129) 1px solid;
+  padding: 8px;
+  border-radius: 3px;
+  background: #ffffff;
+  box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+}
+.Main__Top_Right_Chart, .Main__Bottom__leftCard, .Main__Bottom__rightCard{
+  border: rgb(129, 129, 129) 1px solid;
+  padding: 12px;
+  border-radius: 3px;
+  background: #ffffff;
+  box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+}
+.Main__Upper_expected_amount_cards{
+  display: flex;
+  justify-content: space-between;
+}
+.bottom_card_content{
+  border: 2px solid;
+  padding: 8px;
+  width: 30rem;
+  border-radius: 3px;
+  background: #ffffff;
+  box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+  text-align: center;
+  margin: 0px 5px;
+  font-weight: 700;
+  
+}
+.sav{
+    border-color: rgba(37, 90, 2, 0.973);
+}
+.emer{
+    border-color: rgb(0, 225, 255,0.35);
+}
+.exp{
+    border-color: rgba(245, 0, 0, 0.35);
+}
+

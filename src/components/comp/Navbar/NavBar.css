@@ -1,0 +1,28 @@
+
+.navbar {
+    padding-right: 1rem;
+    padding-left: 5rem;
+}
+.navbar-brand{
+    font-size: larger;
+
+}
+a{
+    /* color: #007bff; */
+    padding: 28px;
+    font-weight: 200;
+    color:black;
+    /* color: var(--title-color); */
+    font-size: large;
+    text-decoration: none !important;
+    background-color: transparent;
+    padding: 5px;
+
+}
+
+
+.Navbar_img{
+    height: 20px;
+    border-radius: 8px;
+    
+}

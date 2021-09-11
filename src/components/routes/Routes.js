@@ -1,0 +1,10 @@
+export const Balance = {name :"Balance",link: "/balance"};
+export const Landing = {name :"Landing",link: "/landing"};
+export const News = {name :"News",link: "/news"};
+export const Home = {link: "/home"};
+export const Emergency = {name:"Emergency-Funds",link:"/emergency"}
+export const Savings = {name:"Savings",link:"/savings"}
+export const Expense = {name :"Expenses",link: "/expense"};
+export const Help = {name :"Help",link: "/help"};
+export const Market = {name :"Market",link: "/market"};
+export const NotFound = {name :"NotFound",link: "/404"};

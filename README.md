@@ -28,7 +28,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Web Project
 
 A web application that helps you manage your money easily. It is a tool that helps you create and manage your monthly budgets without any hassle. User can keep track of different stocks with the help of beautiful graphs. ReactJs is used for Front-End dev. And FireBase for database and authentication.
 

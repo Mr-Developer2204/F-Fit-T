@@ -112,7 +112,9 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 Checkout my more projects at <a href="https://github.com/Mr-Developer2204>View Project</a>
+Guys feel free to make your contribution to this repo.
 
+Thank you!!!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

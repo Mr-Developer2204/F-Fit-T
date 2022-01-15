@@ -1,10 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -116,14 +109,4 @@ Checkout my more projects at <a href="https://github.com/Mr-Developer2204>View P
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Tejas-Ladhani/F-Fit.svg?style=for-the-badge
-[contributors-url]:https://github.com/Tejas-Ladhani/F-Fit/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Tejas-Ladhani/F-Fit.svg?style=for-the-badge
-[forks-url]:https://github.com/Tejas-Ladhani/F-Fit/network/members
-[stars-shield]: https://img.shields.io/github/stars/Tejas-Ladhani/F-Fit.svg?style=for-the-badge
-[stars-url]:https://github.com/Tejas-Ladhani/F-Fit/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Tejas-Ladhani/F-Fit.svg?style=for-the-badge
-[issues-url]:https://github.com/Tejas-Ladhani/F-Fit/issues
-[license-shield]: https://img.shields.io/github/license/Tejas-Ladhani/F-Fit.svg?style=for-the-badge
-[license-url]:https://github.com/Tejas-Ladhani/F-Fit/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png

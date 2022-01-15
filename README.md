@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://img.icons8.com/bubbles/50/000000/money.png" alt="Logo" width="auto" height="120"/>
+    <img src="https://img.icons8.com/bubbles/100/000000/money.png" alt="Logo" width="auto" height="120"/>
   </a>
 
   <h3 align="center">FFit</h3>

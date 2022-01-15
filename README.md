@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://upload.wikimedia.org/wikipedia/he/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="Logo" width="auto" height="120">
+    <img src="https://img.icons8.com/bubbles/50/000000/money.png" alt="Logo" width="auto" height="120"/>
   </a>
 
   <h3 align="center">FFit</h3>
@@ -12,8 +12,6 @@
    Keeps you Financially Fit.
     <br />
     <a href="https://database-ffit.web.app">View Demo</a>
-    ·
-    <a href="https://github.com/Tejas-Ladhani/F-Fit/issues">Report Bug</a>
     ·
   </p>
 </p>
@@ -41,7 +39,7 @@ A web application that helps you manage your money easily. It is a tool that hel
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Tejas-Ladhani/F-Fit.git
+   git clone https://github.com/Mr-Developer2204/F-Fit-T.git
    ```
 2. Install NPM packages
    ```sh

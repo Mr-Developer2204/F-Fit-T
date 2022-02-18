@@ -8,6 +8,7 @@ function Landing() {
   return (
 
     <div>
+      <h1>Hello Eveyone!!!</h1>
       {user ? <Balance /> : <div >
         <SBanner />
         <FBanner />

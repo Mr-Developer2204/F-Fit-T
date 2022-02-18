@@ -1,10 +1,4 @@
-/*
-  TEJAS LADHANI
-  17-04-2021
 
-  SHREY MAKWANA
-  @ UNKNOWN DATE but FTER 17-04-2021
-*/
 import "./Main.css";
 import { useEffect, useState, useContext } from 'react';
 import { db } from '../../../Firebase';
